@@ -14,6 +14,7 @@ library(shinydashboard)
 library(shinyWidgets)
 library(BatchGetSymbols)
 library(plotly)
+library(shinyloadtest)
 
 ## T Rowe Price Address to perform API request ##
 t_rowe_base_url <- "https://www3.troweprice.com/fb2/ppfweb/dailyPrices.do?cat="
